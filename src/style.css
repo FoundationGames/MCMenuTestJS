@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "mojangles";
+    src: url("font/mojangles.woff") format("woff");
+}
+
+p {
+    font-family: mojangles
+}
